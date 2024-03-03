@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 Welcome!!!</h1>
 <div align="center">
-<img alt="coding" width= "400px" src ="https://media.licdn.com/dms/image/C4D22AQFY2LKpfIIWVg/feedshare-shrink_2048_1536/0/1673026228828?e=2147483647&v=beta&t=-HntsFkKhI4f1jM-cWQ9eJSdwoPMBCcidOoKNyyRFdw# ">
+<img alt="coding" width= "800px" src ="https://media.licdn.com/dms/image/C4D22AQFY2LKpfIIWVg/feedshare-shrink_2048_1536/0/1673026228828?e=2147483647&v=beta&t=-HntsFkKhI4f1jM-cWQ9eJSdwoPMBCcidOoKNyyRFdw# ">
 </div>
 <h1 display="block" align="center">💫 About Me:</h1>
 Hello, 👋 I am Nahom Birhanu from Ethiopia. 
